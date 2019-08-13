@@ -21,4 +21,4 @@
 | 20 Sep | - | - | - |
 | 13 Sep | - | QuantGen internal meeting | - |
 | 6 Sep | - | QuantGen internal meeting | - |
-| 31 July | Marco Lopez; Gabriel Rovere; Filipe Couto Alves; Fernando Aguate; Agustin Gonzalez; Alexa Lupi | QuantGen & Genus PLC meeting | [Slides](https://www.dropbox.com/s/3mkrtesf4kkdil7/FinalPres.pptx?dl=0) |
+| 31 July | M Lopez; G Rovere; F Couto Alves; F Aguate; A Gonzalez; A Lupi | QuantGen & Genus PLC meeting | [Slides](https://www.dropbox.com/s/3mkrtesf4kkdil7/FinalPres.pptx?dl=0) |
