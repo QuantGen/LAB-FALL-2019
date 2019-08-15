@@ -1,25 +1,12 @@
 # Lab Meetings QuantGen Group Fall 2019
 
 ## Where? IQ (775 Woodlot Dr.). Room: 3000.
-## When? Fridays 2:30pm to 4:00pm.
+## When? Tuesdays 9:30am to 11:00am.
 
 [Group's Website](http://quantgen.github.io/)
 
 | Date           | Presenter(s)     |  Topic(s)        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
-|13 Dec | - | - | - |
-|6 Dec | - | - | - |
-|29 Nov | - | Thanks Giving | - |
-|22 Nov | - | - | - |
-|15 Nov | - | - | - |
-|8 Nov | - | - | - |
-|1 Nov | - | - | - |
-|25 Oct | - | - | - |
-|18 Oct | - | - | - |
-|11 Oct | - | - | - |
-|4 Oct | - | - | - |
-|27 Sep | - | - | - |
-|20 Sep | - | - | - |
-|13 Sep | - |QuantGen internal meeting| - |
-|6 Sep | - |QuantGen internal meeting| - |
+|10 Sep | - |QuantGen internal meeting| - |
+|3 Sep | - |QuantGen internal meeting| - |
 |31 Jul |M Lopez; G Rovere; F Couto Alves; F Aguate; A Gonzalez; A Lupi|QuantGen & Genus PLC meeting|[Slides](https://www.dropbox.com/s/3mkrtesf4kkdil7/FinalPres.pptx?dl=0) |
