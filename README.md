@@ -9,4 +9,4 @@
 | -------------  | ------------- | ------------- | ------------- |
 |10 Sep | - |QuantGen internal meeting| - |
 |3 Sep | G de los Campos; A Gonzalez; F Aguate |QuantGen internal meeting| - |
-|31 Jul |M Lopez; G Rovere; F Couto Alves; F Aguate; A Gonzalez; A Lupi|QuantGen & Genus PLC meeting|[Slides](https://www.dropbox.com/s/3mkrtesf4kkdil7/FinalPres.pptx?dl=0) |
+|31 Jul |M Lopez; G Rovere; F Couto Alves; F Aguate; A Gonzalez; A Lupi|QuantGen & Genus PLC meeting||
