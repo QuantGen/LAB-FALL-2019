@@ -8,7 +8,6 @@
 
 | Date           | Presenter(s)     |  Topic(s)        |  Materials    |
 | -------------  | ---------------- | ---------------- | ------------- |
-| 10 Sep | - | QuantGen internal meeting | - |
-| 3 Sep | G de los Campos; A Gonzalez; F Aguate | QuantGen internal meeting | - |
 | 10 Sep | Alexander Grueneberg | TBD | - |
+| 3 Sep | G de los Campos; A Gonzalez; F Aguate | QuantGen internal meeting | - |
 | 31 Jul | M Lopez; G Rovere; F Couto Alves; F Aguate; A Gonzalez; A Lupi | QuantGen & Genus PLC meeting | - |
