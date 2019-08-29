@@ -1,6 +1,6 @@
 # Lab Meetings QuantGen Group Fall 2019
 
-## Where? IQ (775 Woodlot Dr.). Room: 3000.
+## Where? IQ (775 Woodlot Dr.). Room: 1000.
 ## When? Tuesdays 9:30am to 11:00am.
 
 [Group's Website](http://quantgen.github.io/)
