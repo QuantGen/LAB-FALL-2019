@@ -2,7 +2,7 @@
 
 ## Where? IQ (775 Woodlot Dr), Room 1000
 
-## When? Tuesdays 10am to 11:00am (Room reserved to 11:30am)
+## When? Tuesdays 10am to 11:00am (Room reserved until 11:30am)
 
 [Group's Website](http://quantgen.github.io/)
 
