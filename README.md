@@ -15,11 +15,11 @@
 | 24 Sep | TBD | TBD | - |
 | 1 Oct | Marco Lopez-Cruz | TBD | - |
 | 8 Oct | TBD | TBD | - |
-| 15 Oct | TBD | TBD | - |
+| 15 Oct | Filipe Couto | Increasing the genetic gains in trees breeding programs through the integration early phenotypes in prediction models | - |
 | 22 Oct | Erich Grotewold | Gen regulation in Maize | - |
 | 29 Oct | TBD | TBD | - |
 | 5 Nov | TBD | TBD | - |
 | 12 Nov | TBD | TBD | - |
 | 19 Nov | TBD | TBD | - |
 | 26 Nov | TBD | TBD | - |
-| 3 Dic | TBD | TBD | - |
+| 3 Dez | TBD | TBD | - |
