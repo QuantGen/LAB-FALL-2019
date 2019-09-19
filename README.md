@@ -17,7 +17,7 @@
 | 8 Oct | TBD | TBD | - |
 | 15 Oct | Filipe Couto | Increasing the genetic gains in trees breeding programs through the integration of early phenotypes in prediction models | - |
 | 22 Oct | Erich Grotewold | Gen regulation in Maize | - |
-| Alexa Lupi | TBD | TBD | - |
+| 29 Oct | Alexa Lupi | TBD | - |
 | 5 Nov | TBD | TBD | - |
 | 12 Nov | TBD | TBD | - |
 | 19 Nov | TBD | TBD | - |
