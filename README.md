@@ -21,4 +21,4 @@
 | 12 Nov | Gregory Zajac | TBD | - |
 | 19 Nov | TBD | TBD | - |
 | 26 Nov | TBD | TBD | - |
-| 2 Dec (Monday.11am-noon) | TBD | TBD | - |
+| 2 Dec (Monday 11am-noon) | Kelly Klump | New pathways that interact with diet and exercise behavior to determine body mass and fatness - MSU Twin Registry | - |
