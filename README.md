@@ -12,7 +12,6 @@
 | 3 Sep | Fernando Aguate | QuantGen internal meeting | - |
 | 10 Sep | Alexander Grueneberg | HPCC, OpenMP, Centering & Scaling | [HPCC](https://slides.agrueneberg.info/2019-09-10/QuantGen_HPCC.html), [OpenMP](https://slides.agrueneberg.info/2019-09-10/OpenMP.html), [Centering and Scaling](https://slides.agrueneberg.info/2019-09-10/CenterScale.html) |
 | 17 Sep | Gustavo de los Campos | Powerful & safe: Bayesian decision rules for FDR control | - |
-| 24 Sep | TBD | TBD | - |
 | 1 Oct | Marco Lopez-Cruz | TBD | - |
 | 8 Oct | TBD | TBD | - |
 | 15 Oct | Filipe Couto | Increasing the genetic gains in trees breeding programs through the integration of early phenotypes in prediction models | - |
@@ -22,4 +21,4 @@
 | 12 Nov | Gregory Zajac | TBD | - |
 | 19 Nov | TBD | TBD | - |
 | 26 Nov | TBD | TBD | - |
-| 3 Dec | TBD | TBD | - |
+| 2 Dec (Monday.11am-noon) | TBD | TBD | - |
