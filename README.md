@@ -19,7 +19,7 @@
 | 22 Oct | Erich Grotewold | Gen regulation in Maize | - |
 | 29 Oct | Alexa Lupi | TBD | - |
 | 5 Nov | Gabriel Rovere | Prediction of energy status using Mid-Infrared spectra data in Holstein and Jersey cows| - |
-| 12 Nov | TBD | TBD | - |
+| 12 Nov | Gregory Zajac | TBD | - |
 | 19 Nov | TBD | TBD | - |
 | 26 Nov | TBD | TBD | - |
-| 3 Dez | TBD | TBD | - |
+| 3 Dec | TBD | TBD | - |
