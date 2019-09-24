@@ -18,7 +18,7 @@
 | 15 Oct | Filipe Couto | Increasing the genetic gains in trees breeding programs through the integration of early phenotypes in prediction models | - |
 | 22 Oct | Erich Grotewold | Gen regulation in Maize | - |
 | 29 Oct | Alexa Lupi | TBD | - |
-| 5 Nov | TBD | TBD | - |
+| 5 Nov | Gabriel Rovere | Prediction of energy status using Mid-Infrared spectra data in Holstein and Jersey cows| - |
 | 12 Nov | TBD | TBD | - |
 | 19 Nov | TBD | TBD | - |
 | 26 Nov | TBD | TBD | - |
