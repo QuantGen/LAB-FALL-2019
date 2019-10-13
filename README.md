@@ -16,9 +16,9 @@
 | 8 Oct | TBD | TBD | - |
 | 15 Oct | Filipe Couto | Increasing the genetic gains in trees breeding programs through the integration of early phenotypes in prediction models | - |
 | 22 Oct | Erich Grotewold | Gen regulation in Maize | - |
-| 29 Oct | Alexa Lupi | TBD | - |
+| 29 Oct | TBD | TBD | - |
 | 5 Nov | Gabriel Rovere | Prediction of energy status using Mid-Infrared spectra data in Holstein and Jersey cows| - |
 | 12 Nov | Gregory Zajac | A fast linkage method for large GWAS cohorts with related individuals | - |
-| 19 Nov | TBD | TBD | - |
+| 19 Nov | Alexa Lupi | Dissecting genetic pleiotropy between hyperuricemia and chronic kidney disease using local Bayesian regression methods | - |
 | 26 Nov | TBD | TBD | - |
 | 2 Dec (Monday 11am-noon) | Kelly Klump | Twin models looking at hormone moderation of genetic effects - MSU Twin Registry | - |
