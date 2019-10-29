@@ -13,10 +13,8 @@
 | 10 Sep | Alexander Grueneberg | HPCC, OpenMP, Centering & Scaling | [HPCC](https://slides.agrueneberg.info/2019-09-10/QuantGen_HPCC.html), [OpenMP](https://slides.agrueneberg.info/2019-09-10/OpenMP.html), [Centering and Scaling](https://slides.agrueneberg.info/2019-09-10/CenterScale.html) |
 | 17 Sep | Gustavo de los Campos | Powerful & safe: Bayesian decision rules for FDR control | - |
 | 1 Oct | Marco Lopez-Cruz | Sparse Family Index | - |
-| 8 Oct | TBD | TBD | - |
 | 15 Oct | Filipe Couto | Increasing the genetic gains in trees breeding programs through the integration of early phenotypes in prediction models | - |
 | 22 Oct | Erich Grotewold | Gen regulation in Maize | - |
-| 29 Oct | TBD | TBD | - |
 | 5 Nov | Paulino Perez | Bayesian Regularized Neural Networks for ordinal traits | - |
 | 12 Nov | Gregory Zajac | A fast linkage method for large GWAS cohorts with related individuals | - |
 | 19 Nov | Alexa Lupi | Dissecting genetic pleiotropy between hyperuricemia and chronic kidney disease using local Bayesian regression methods | - |
