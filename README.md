@@ -17,6 +17,5 @@
 | 22 Oct | Erich Grotewold | Gen regulation in Maize | - |
 | 5 Nov | Paulino Perez | Bayesian Regularized Neural Networks for ordinal traits | - |
 | 12 Nov | Gregory Zajac | A fast linkage method for large GWAS cohorts with related individuals | - |
-| 19 Nov | - | - | - |
-| 26 Nov | Gabriel Rovere | Prediction of energy status using Mid-Infrared spectra data in Holstein and Jersey cows | - |
 | 2 Dec (Monday 11am-noon) | Kelly Klump | Twin models looking at hormone moderation of genetic effects - MSU Twin Registry | - |
+| TBD | Gabriel Rovere | Prediction of energy status using Mid-Infrared spectra data in Holstein and Jersey cows | - |
