@@ -4,6 +4,8 @@
 
 ## When? Tuesdays 10-11
 
+[Group's Website](http://quantgen.github.io/)
+
 | Date           | Presenter(s)     |  Topic(s)        |  Materials    |
 | -------------  | ---------------- | ---------------- | ------------- |
 | 31 Jul | M Lopez; G Rovere; F Couto Alves; F Aguate; A Gonzalez; A Lupi | QuantGen & Genus PLC meeting | - |
